@@ -3,7 +3,7 @@
 - 🌱 I’m currently mastering Python, Tableau, MySQL, Powerbi, Statistics, Machine learning, Deep learning
 - 💞️ I’m looking to collaborate on topics related to Data Science, Machine Learning and Artificial Intelligence.
 - 📫 How to reach me miralpatel224@gmail.com
-- 📫 How to reach me miralpatel224@gmail.com
+  
 
 
 <!---
